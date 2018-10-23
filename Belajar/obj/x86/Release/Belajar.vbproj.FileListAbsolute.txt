@@ -1,0 +1,3 @@
+C:\Users\huda\documents\visual studio 2010\Projects\Belajar\Belajar\obj\x86\Release\Belajar.exe
+C:\Users\huda\documents\visual studio 2010\Projects\Belajar\Belajar\obj\x86\Release\Belajar.xml
+C:\Users\huda\documents\visual studio 2010\Projects\Belajar\Belajar\obj\x86\Release\Belajar.pdb

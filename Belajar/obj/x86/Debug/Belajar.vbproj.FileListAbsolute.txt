@@ -1,0 +1,11 @@
+c:\users\huda\documents\visual studio 2010\Projects\Belajar\Belajar\bin\Debug\Belajar.exe
+c:\users\huda\documents\visual studio 2010\Projects\Belajar\Belajar\bin\Debug\Belajar.pdb
+c:\users\huda\documents\visual studio 2010\Projects\Belajar\Belajar\bin\Debug\Belajar.xml
+c:\users\huda\documents\visual studio 2010\Projects\Belajar\Belajar\obj\x86\Debug\Belajar.Resources.resources
+c:\users\huda\documents\visual studio 2010\Projects\Belajar\Belajar\obj\x86\Debug\Belajar.vbproj.GenerateResource.Cache
+c:\users\huda\documents\visual studio 2010\Projects\Belajar\Belajar\obj\x86\Debug\Belajar.exe
+c:\users\huda\documents\visual studio 2010\Projects\Belajar\Belajar\obj\x86\Debug\Belajar.xml
+c:\users\huda\documents\visual studio 2010\Projects\Belajar\Belajar\obj\x86\Debug\Belajar.pdb
+c:\users\huda\documents\visual studio 2010\Projects\Belajar\Belajar\obj\x86\Debug\Belajar.halaman_utama.resources
+C:\Users\huda\documents\visual studio 2010\Projects\Belajar\Belajar\obj\x86\Debug\Belajar.FormLogin.resources
+C:\Users\huda\documents\visual studio 2010\Projects\Belajar\Belajar\obj\x86\Debug\Belajar.antrian_masuk.resources
